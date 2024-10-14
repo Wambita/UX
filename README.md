@@ -65,8 +65,6 @@ Throughout the project, several important insights emerged:
 
 ## Tools Used
 - **Figma**: For creating the wireframes and ideation board.
-- **Miro**: For mapping the user journey and conducting the ideation session.
-- **Adobe XD**: Used to design the UI for the hydration tracking app.
 - **Canva**: For creating the storyboard.
 
 
