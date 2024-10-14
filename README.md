@@ -64,8 +64,9 @@ Throughout the project, several important insights emerged:
 - **Prototyping for Validation**: Storyboarding helped us visualize Pierre’s interaction with the product and validate the effectiveness of our design early in the process.
 
 ## Tools Used
-- **Figma**: For creating the wireframes and ideation board.
-- **Canva**: For creating the storyboard.
+- **Figma**: For creating user journey and ideation board.
+- **Canva**: For creating, insights, analytics, persona and problem statement
+- **Pen and paper**: For creating storyboard and brainstorming.
 
 
 ## How to Use the Repository
