@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Going on Holidays
 
 ## Overview
@@ -78,3 +79,7 @@ The **Going on Holidays** project is dedicated to creating a user-centered desig
   ## License
 
   This software is licensed under the MIT License. See  [License](LICENSE) for details.
+=======
+# teenage-drama
+
+>>>>>>> teenage-drama/master
