@@ -1,85 +1,115 @@
-<<<<<<< HEAD
-# Going on Holidays
+# Teenage Drama
 
-## Overview
+## 📌 Project Overview  
+**Teenage Drama** is a design thinking project focused on addressing **school harassment among teenagers (ages 15-18)**. As a UX designer, your goal is to conduct **user research** to better understand this generation and develop meaningful solutions.
 
-**Going on Holidays** is a project aimed at enhancing the experience of going on holidays with friends by identifying and alleviating stressful moments associated with travel and leisure. This README provides insights into the UI/UX aspects of the project, outlining our design process, research findings, and user-centered design principles.
+The project follows the **Empathize phase** of the design process, including **competitive analysis, surveys, interviews, and persona creation**.
 
-## Project Objectives
+---
 
-- **Understand User Needs:** To gather insights about user experiences during holidays and identify pain points.
-- **Enhance Comfort:** To design a solution that makes holiday experiences more enjoyable and stress-free.
-- **Foster Collaboration:** To involve users in the design process to create a more relevant and effective product.
+## 🎯 Objectives  
+- **Understand school harassment behaviors** through research.
+- **Analyze organizations working against bullying** via competitive analysis.
+- **Collect insights** from teenagers using surveys and interviews.
+- **Develop user personas** to better define the target audience.
 
-## User Research
+---
 
-### Interview Guide
+## 📂 Project Deliverables  
+All deliverables should be named using this format:  
+**Name_FirstName_DeliverableName_Date_VersionNumber**  
+_(e.g., Doe_John_Survey_05242024_V1.pdf)_
 
-An interview guide was created to extract valuable insights from users. The guide included:
+### ✅ 1. Competitive Analysis  
+- **A report (PDF)** summarizing key findings.  
+- **A competitive landscape chart** with two comparison axes.  
+- **A table comparing organizations** based on 5-10 key criteria.
 
-- **Objective:** To understand users' habits and the challenges they face during holidays.
-- **Hypotheses:** 
-  1. Users experience stress due to poor planning.
-  2. Communication breakdowns lead to conflicts among friends during trips.
-  3. Lack of awareness about each other's preferences causes dissatisfaction.
-- **Main Topics:**
-  - Planning and preparation
-  - Communication with friends
-  - Past holiday experiences
-- **Sample Questions:**
-  - How do you usually plan holidays with friends?
-  - What challenges do you face when coordinating with others?
-  - Can you share a memorable holiday experience and what made it enjoyable or stressful?
+### ✅ 2. User Survey  
+- **A PDF document** with:  
+  - Research objectives and hypotheses  
+  - Survey questions  
+  - Survey link  
+  - Introduction and conclusion  
+- **40+ responses** to validate insights.
 
-### Interview Process
+### ✅ 3. Broadcast Strategy  
+- **A document outlining the strategy** to reach teenagers, including:  
+  - Target audience  
+  - Outreach methods (at least 8 channels)  
+  - Messaging strategies (Plan A, B, C)  
+  - Survey results  
+  - Reflection on effectiveness and challenges faced.
 
-Conducted **6 user interviews** in various locations (cafés, parks) to gather diverse perspectives. Notes were taken during each interview to capture reactions and insights.
+### ✅ 4. User Interviews  
+- **An interview guide (PDF)**  
+- **Three interview transcripts (PDF)**  
+- **Affinity diagram (PDF / Figma / Miro)**
 
-### Affinity Diagram & Empathy Map
+### ✅ 5. Persona Creation  
+- **A persona document (PDF)** summarizing key trends, pain points, motivations, and habits.  
 
-Post-interview analysis involved creating an affinity diagram to cluster similar ideas and themes, followed by an empathy map to visualize user sentiments, thoughts, and needs. 
+---
 
-## Problem Statement
+## 📝 Instructions  
+### 📍 Competitive Analysis  
+1. Research **10 organizations** worldwide fighting school harassment.  
+2. Compare their **main actions, values, and outreach methods**.  
+3. Present findings in a **PDF report, landscape chart, and comparison table**.
 
-**How might we** create a more enjoyable holiday planning experience for friends by addressing communication barriers and enhancing collaboration?
+### 📍 User Survey  
+1. Define research **objectives and hypotheses**.  
+2. Prepare **10 survey questions** (closed-ended).  
+3. Launch the survey and **collect 40+ responses**.  
+4. Document findings in a **PDF**.
 
-## Ideation
+### 📍 Broadcast Strategy  
+1. Identify **target audiences** (teenagers, witnesses, teachers, parents).  
+2. Choose **8+ outreach channels** (social media, forums, influencers).  
+3. Develop **Plan A, B, and C** messaging.  
+4. Execute the strategy and collect **40+ survey responses**.  
+5. Reflect on what worked best.
 
-Brainstorming sessions led to several innovative ideas to address the identified problems. The team focused on narrowing these ideas down to three main solutions that would enhance the user experience:
+### 📍 User Interviews  
+1. Select **3 teenage participants**.  
+2. Prepare **10 open-ended questions**.  
+3. Conduct and document interviews.  
+4. Create an **affinity diagram** to analyze findings.
 
-1. **Collaborative Planning Tool:** An app feature that allows users to share itineraries and preferences in real time.
-2. **Mood Board for Preferences:** A visual tool where users can express their holiday desires and activities.
-3. **Automated Reminders:** Notifications for important deadlines (e.g., booking, packing) to ensure no one is left out.
+### 📍 Persona Creation  
+1. Identify **common trends** from surveys and interviews.  
+2. Develop **1-2 fictional personas** representing typical users.  
+3. Summarize **habits, motivations, fears, frustrations, and pain points**.  
 
-## User Flow
+---
 
-A comprehensive user flow was created to map out the journey of users interacting with the proposed solutions. This flow focuses on ensuring a seamless experience from planning to execution of holiday trips.
+## 📂 Repository Structure  
+```
+Teenage_Drama_Project/
+│── README.md  
+│── teenage_drama_Broadcast_Strategy.zip  
+│── teenage_drama_Competitive_Analysis.zip  
+│── teenage_drama_Interview.zip  
+│── Wambita_Fana_Persona_102324_v1.pdf  
+│── Wambita_Fana_Problem_Statement_102224_v1.pdf  
+│── Wambita_Fana_Survey_102224_v1.pdf  
+│── Wambita_Fana_User_Journey_102324_v1.fig  
 
-## Prototyping
+```
 
-### Low-Fidelity Prototypes
+---
 
-Initial sketches of the user interface were drawn to visualize the layout and key features. These were used for early testing with users to gather feedback.
+## 💡 Tips  
+- Ensure **clear and concise** documentation.  
+- Use **neutral language** in surveys and interviews.  
+- Keep designs **clean and easy to read**.  
+- Consider **diverse perspectives** when creating personas.  
 
-### Mid-Fidelity Wireframes
+---
 
-The mid-fidelity wireframes were created using Figma, focusing on the core functionalities identified in the user flow. These wireframes were designed in black and white to emphasize structure over style.
+## 🔗 Resources  
+- [Lean Survey Canvas](https://www.leansurveycanvas.com)  
+- [User Interviews Guide](https://www.nngroup.com/articles/user-interviews/)  
+- [Competitive Analysis Templates](https://www.smartsheet.com/competitive-analysis-templates)  
 
-## Usability Testing
-
-Prototypes were tested with users to identify usability issues and areas for improvement. Feedback collected during these sessions will guide further iterations of the design.
-
-## Conclusion
-
-The **Going on Holidays** project is dedicated to creating a user-centered design that enhances the holiday experience for friends. By focusing on user research, collaborative ideation, and iterative testing, we aim to develop a solution that alleviates stress and fosters enjoyable experiences.
-
-## Author:
-  This project was created  and maintained by [Wambita](https://github.com/Wambita)
-
-  ## License
-
-  This software is licensed under the MIT License. See  [License](LICENSE) for details.
-=======
-# teenage-drama
-
->>>>>>> teenage-drama/master
+**Project by:** Wambita Sheila Fana  
