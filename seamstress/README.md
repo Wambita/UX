@@ -1,4 +1,4 @@
-# Seamstress UX Project**  
+# Seamstress UX Project
 
 ## **Project Overview**  
 **Client:** Elsa, a seamstress who makes custom swimsuits via Instagram.  
